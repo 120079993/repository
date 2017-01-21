@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Aug 27 23:51:19 CST 2016
+http\://uk.maven.org/maven2/.lastUpdated=1472313079807
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1472311116585
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-jar-plugin\:pom\:2.4 from/to central (https\://repo.maven.apache.org/maven2)\: Connection reset
